@@ -1,0 +1,25 @@
+firebrick
+darkred
+
+(92)9 9338-7874
+
+https://www.facebook.com/morogueta
+
+moronguetaamazonico@gmail.com
+
+Tarumã Açu, Manaus, AM, Brazil
+
+.fa-whatsapp {
+            background: #34af23;
+            color: white;
+          }
+
+          .fa-facebook {
+            background: #3b5998;
+            color: white;
+          }
+
+          .fa-instagram {
+            background: #dd2a7b;
+            color: white;
+          }

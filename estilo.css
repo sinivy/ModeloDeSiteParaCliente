@@ -1,0 +1,198 @@
+ <style type="text/css">
+
+          
+
+          #barracadastro {
+            font-family: "Times New Roman", serif;
+            float: left;
+            border: 3px chocolate;
+            border-radius: 1%;
+          }
+
+          #logo {
+            margin: 0 0 0 40px;
+          }
+
+          #cabecalho {
+            background: darkred;
+            width: 99%;
+            height: 190px;
+            padding: 5px;
+            border-radius: 1%;
+            align-self: center;
+          }
+
+          #cabecalho2 {
+            font-family: "Times New Roman", serif;
+            text-align: center;
+            font-size: 25px;
+            margin: 50px 0 0 100px;
+            border-radius: 1%;
+            float: left;
+          }
+
+           #cabecalho3 {
+            font-family: "Times New Roman", serif;
+            text-align: center;
+            font-size: 25px;
+            margin: 50px 0 0 0;
+            border-radius: 1%;
+            float: left;
+          }
+
+           #cabecalho4 {
+            font-family: "Times New Roman", serif;
+            text-align: center;
+            font-size: 25px;
+            margin: 50px 0 0 0;
+            border-radius: 1%;
+            float: left;
+          }
+          
+          #cabecalho5 {
+            font-family: "Times New Roman", serif;
+            text-align: center;
+            font-size: 25px;
+            margin: 50px 0 0 0;
+            border-radius: 1%;
+            float: left;
+          }
+
+          #cabecalho6 {
+            font-family: "Times New Roman", serif;
+            text-align: center;
+            font-size: 25px;
+            margin: 50px 0 0 0;
+            border-radius: 1%;
+            float: left;
+          }
+
+          .conteudoprincipal {
+            column-count: 2;
+          }
+
+          .coluna {
+            background-color: ghostwhite;
+            padding: 5px;
+            margin: 0 0 1em 0;
+            border-radius: 0,50%;
+          }
+
+          body { 
+            margin: 0; 
+          } 
+
+          #slider { 
+            overflow: hidden; 
+          }
+
+          #slider figure img { 
+            width: 10%; float: left; 
+          }
+
+          #slider figure { 
+            position: relative;
+            width: 500%;
+            margin: 0;
+            left: 0;
+            text-align: left;
+            font-size: 0;
+            animation: 20s slidy infinite;
+          }
+
+          @keyframes slidy {
+            0% { 
+              left: 0%; 
+            }
+            20% { 
+              left: -100%; 
+            }
+            25% { 
+              left: -100%; 
+            }
+            45% { 
+              left: -100%; 
+            }
+          }
+
+          #rodape {
+            background: whitesmoke;
+            width: 100%;
+            height: 110px;
+            border-radius: 0,50%;
+          }
+
+          #creditos {
+            background: white;
+            opacity: 0.7;
+            border-radius: 0,50%;
+          }
+
+          a {
+            color: saddlebrown;
+            text-decoration: none;
+            font-weight: bold;
+            border: 2px solid whitesmoke;
+            padding: 5px;
+            background: ghostwhite;
+          }
+
+          a:hover {
+            opacity: 0.7;
+          }
+
+          h3 {
+            color: saddlebrown;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 35px;
+          }
+
+          img:hover {
+            opacity: 0.7;
+          }
+
+          * ::-webkit-scrollbar {
+            width: 12px;
+          }
+
+          *::-webkit-scrollbar-track {
+            background: gainsboro;
+          }
+
+          *::-webkit-scrollbar-thumb {
+            background: chocolate;
+            border-radius: 20px;
+            border: 3px peru;
+          }
+
+          .fa {
+            padding: 30px;
+            font-size: 50px;
+            width: 20px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 60%;
+            margin: 15px 30px 0 0;
+          }
+
+          .fa:hover {
+            opacity: 0.7;
+          }
+
+          .fa-whatsapp {
+            background: goldenrod;
+            color: white;
+          }
+
+          .fa-facebook {
+            background: goldenrod;
+            color: white;
+          }
+
+          .fa-instagram {
+            background: goldenrod;
+            color: white;
+          }
+
+        </style>
